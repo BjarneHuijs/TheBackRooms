@@ -3,8 +3,7 @@
 The Backrooms is a game project built with a team of 5 people in context of a course for Digital Arts and Entertainment or DAE for short.<br>
 The main target of the game is to survive as long as possible without dying from hunger. You can reinvigorate yourself by killing one of the <br>
 victims stuck in the backrooms where you roam.
-<br>
-<br>
+
 
 ## The team<br>
 
@@ -15,8 +14,6 @@ Eloise De Backer - Artist - https://www.linkedin.com/in/eloise-de-backer-8921b42
 Carolin Aust 	 - Artist - https://www.linkedin.com/in/carolin-aust-0aa616223/<br>
 Salomé Vandereyt - Artist - https://www.linkedin.com/in/salomevandereyt/<br>
 
-<br>
-<br>
 
 ## The concept<br>
 
@@ -25,8 +22,6 @@ This core idea has come in the form of the player being the monster in a horror 
 <br>
 Our main philosophy was that the game had to be fun and entertaining to play, and we believe we were able to achieve that, as it feels quite satisfying when you are able to take down your victims in the game.
 
-<br>
-<br>
 
 ## Challenges<br>
 
